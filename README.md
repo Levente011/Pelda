@@ -28,3 +28,13 @@ Az átnevezett controllerben: DbContext injektálása
 Végpontok létrehozása
 
 Postman és SQL script
+
+
+CREATE DATABASE példanév
+
+  CHARACTER SET utf8
+  
+  COLLATE utf8_hungarian_ci;
+ 
+use példanév
+  
